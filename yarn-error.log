@@ -1,0 +1,36 @@
+Arguments: 
+  /Users/yonekurayuuki/.anyenv/envs/nodenv/versions/12.7.0/bin/node /Users/yonekurayuuki/.anyenv/envs/nodenv/versions/12.7.0/bin/yarn init
+
+PATH: 
+  /Users/yonekurayuuki/.anyenv/envs/nodenv/versions/12.7.0/bin:/Users/yonekurayuuki/.anyenv/envs/nodenv/libexec:/Users/yonekurayuuki/.anyenv/envs/nodenv/plugins/nodenv-vars/bin:/Users/yonekurayuuki/.anyenv/envs/nodenv/plugins/nodenv-default-packages/bin:/Users/yonekurayuuki/.anyenv/envs/nodenv/plugins/node-build/bin:/Users/yonekurayuuki/.anyenv/envs/nodenv/shims:/Users/yonekurayuuki/.anyenv/envs/nodenv/bin:/Users/yonekurayuuki/google-cloud-sdk/bin:/usr/local/opt/libxml2/bin:/Users/yonekurayuuki/.nodebrew/current/bin:/usr/local/sbin:/usr/local:/Users/yonekurayuuki/bin:/Users/yonekurayuuki/.pyenv/plugins/pyenv-virtualenv/shims:/Users/yonekurayuuki/.pyenv/shims:/usr/local/bin:/usr/local/sbin:/Users/yonekurayuuki/.cargo/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/local/bin:/Applications/VMware Fusion.app/Contents/Public:/Library/TeX/texbin:/usr/local/go/bin:/usr/local/share/dotnet:/opt/X11/bin:~/.dotnet/tools:/Library/Frameworks/Mono.framework/Versions/Current/Commands
+
+Yarn version: 
+  1.19.0
+
+Node version: 
+  12.7.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (/Users/yonekurayuuki/.anyenv/envs/nodenv/versions/12.7.0/lib/node_modules/yarn/lib/cli.js:136799:13)
+      at Interface.emit (events.js:203:13)
+      at Interface._ttyWrite (readline.js:880:16)
+      at ReadStream.onkeypress (readline.js:191:10)
+      at ReadStream.emit (events.js:203:13)
+      at emitKeys (internal/readline/utils.js:414:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1146:36)
+      at ReadStream.emit (events.js:203:13)
+      at addChunk (_stream_readable.js:294:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
